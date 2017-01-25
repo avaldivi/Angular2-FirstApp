@@ -7,8 +7,8 @@ import { Component } from '@angular/core';
     <fa-other> </fa-other>
     <fa-another> </fa-another>
     <fa-databinding> </fa-databinding>
-    
     <fa-lifecyle></fa-lifecyle>
+    <fa-directives></fa-directives>
 `,
   styles: [` 
      h1 {
