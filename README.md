@@ -1,8 +1,8 @@
 # Angular2-FirstApp
 Practice with Angular 2
 
-##Creating Components
+## Creating Components
 
-##Different types of databinding
+## Different types of databinding
 
-##Lifecyle Components
+## Lifecyle Components
